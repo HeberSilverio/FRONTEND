@@ -11,7 +11,7 @@ Curso de frontend do básico ao avançado, seguindo a trilha sugerida neste vide
 ## 1.HTTP 
 Hyper Text Transfer Protocol
 - Curso de HTTP está nesta playlist <a href="https://youtube.com/playlist?list=PLx6gdu4s3nkceYGr8i4H0necTuN_gx8H_">Conhecendo o protocolo HTTP</a>
-- Ferramenta para testar http chamada HTTPie. Site para baixar ferramenta <a href="HTTPS://httpie.org"></a>
+- Ferramenta para testar http chamada HTTPie. Site para baixar ferramenta <a href="HTTPS://httpie.org">httpie.org</a>
 
 
 ## 2.UX 
