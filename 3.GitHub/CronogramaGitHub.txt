@@ -1,0 +1,3 @@
+- Assistir o video do Cursos em Vídeo sobre GitHub
+- Assistir uma aula sobre como criar arquivos Markedown
+- Encontrar sites de ícones para colocar no markedown
